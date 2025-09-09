@@ -1,0 +1,72 @@
+h1 {
+    color:rgb(6, 89, 255); 
+    text-decoration: underline;
+    font-style: italic;
+}
+
+h2 {
+    color:rgb(76, 57, 246); 
+    text-decoration: underline;
+}
+
+h3 {
+    color:rgb(149, 45, 252); 
+    font-size: medium;
+   font-style: italic;
+}
+
+h4 {
+    color:rgb(219, 27, 253);
+    background-color: aliceblue; 
+}
+
+
+a{
+    color: #FF0000;
+    text-decoration: none ;
+}
+
+a:link {
+  color: #ff0000;
+}
+
+a:visited {
+  color: #04ff00;
+}
+
+a:active {
+  color: #f20000;
+}
+
+a:hover {
+  color: #fffb00;
+  text-decoration: underline;
+} 
+
+p{
+    color: white;  
+}
+
+footer{
+    color: rgb(0, 0, 0);
+}
+nav{
+  color: aqua;
+}
+.specialp {
+    color: #ffffff;
+    background-color: #28008e;
+}
+#specialID {
+    color: green;
+    background-color: #ffff33f9;
+}.purplebg{
+    background-color: rgb(53, 0, 118);
+}
+.indigobg{
+    background-color: rgb(74, 0, 123);
+}
+.spanstyle{
+    color: rgb(230, 54, 0);
+    text-decoration: underline;
+}
